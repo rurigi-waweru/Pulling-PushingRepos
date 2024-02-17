@@ -15,5 +15,12 @@
 (vii) Now, push your files to GitHub by running this command, `git push origin master`
 
 
+# To Pull from GitHub
+
+(viii) run `git pull origin master` notice this includes which branch we want to pull from GitHub
+
+(ix) Check for any inconsistencies by running `git status`. Viola!
+
+
 
 

@@ -4,6 +4,10 @@ Trying to create a repo and send to GitHub
 
 Thank you
 
->>>>>>>>>>>>
-
 Acknowleged, the receiveship of this file on Github!
+
+>>>>>>>>>>>
+
+Pulled the File again from GitHub, viola! 
+
+Then added this last lines here! 
